@@ -14,4 +14,4 @@ To analyze Google Ads data from an ecommerce company and find insights from the 
 
 **Looker Studio Dashboard** : [Link to Looker Studio Dashboard](https://lookerstudio.google.com/reporting/90de1d92-08c9-47af-b13d-76bb93010a33)
 
-![Dashboard Preview](https://raw.githubusercontent.com/mcikalmerdeka/Ecommerce-Google-Ads-Data-Analysis/refs/heads/main/AdWords%20Data%20Analysis%20Dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/mcikalmerdeka/Ecommerce-Google-Ads-Data-Analysis/refs/heads/main/AdWords%20Analysis%20Dashboard.png.png)
