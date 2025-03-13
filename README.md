@@ -1,5 +1,7 @@
 # Ecommerce Google Ads Data Analysis
 
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Ecommerce-Google-Ads-Data-Analysis/refs/heads/main/Assets/Project%20Header.jpg)
+
 ## Project Description
 
 - This was originally from my bootcamp task on Looker Studio, but I think I would just add it to this list for kind of like a mini project. The dataset used is from Looker Studio's sample data of AdWords (now known as Google Ads) Data, which contains information about the metrics of each campaign. The task demanded us to formulate our own list of metrics to be displayed based on our own data understanding, and in this case, I am using ROAS (Return on Ad Spend) as the main metric to analyze its performance.
