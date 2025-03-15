@@ -1,6 +1,6 @@
 # Ecommerce Google Ads Data Analysis
 
-![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Ecommerce-Google-Ads-Data-Analysis/refs/heads/main/Assets/Project%20Header.jpg)
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Ecommerce-Google-Ads-Data-Analysis/refs/heads/main/Assets/Project%20Header%202.png)
 
 ## Project Description
 
